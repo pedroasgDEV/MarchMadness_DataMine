@@ -11,3 +11,4 @@ dependencies:
   - scipy
   - notebook
   - ipykernel
+  - seaborn
